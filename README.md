@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Koni
-- 👀 I’m interested in python 
+- 👀 I’m interested in python, html, css, javascript
   
 
 <!---
